@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Transfer</string>
+
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <string name="action_delete_all_entries">Delete All user</string>
+
+    <string name="empty_view_title_text">no users here...</string>
+
+    <string name="empty_view_subtitle_text">Get started by adding a user</string>
+
+    <string name="editor_activity_title_new_user">Add a user</string>
+
+    <string name="editor_activity_title_edit_user">Edit user</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="editor_insert_user_successful">user saved</string>
+
+    <string name="editor_insert_user_failed">Error with saving user</string>
+
+    <string name="editor_update_user_successful">user updated</string>
+
+    <string name="editor_update_user_failed">Error with updating user</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="editor_delete_user_successful">user deleted</string>
+
+    <string name="editor_delete_user_failed">Error with deleting user</string>
+
+    <string name="delete_dialog_msg">Delete this user?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="category_overview">Overview</string>
+
+    <string name="category_gender">Gender</string>
+
+    <string name="category_measurement">Credit</string>
+
+    <string name="hint_user_name">Name</string>
+
+    <string name="hint_user_email">email</string>
+
+
+    <string name="hint_user_credit">credit</string>
+
+
+    <string name="unit_user_credit">points</string>
+
+
+    <string name="gender_unknown">Unknown</string>
+
+
+    <string name="gender_male">Male</string>
+
+
+    <string name="gender_female">Female</string>
+    <string name="amount_high">user credit is low</string>
+</resources>
